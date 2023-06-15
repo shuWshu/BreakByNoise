@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Break by Noise</string>
+    <string name="button">Start</string>
+    <string name="description">image</string>
+    <string name="message">"「他のアプリの上に重ねて表示」からこのアプリに許可を与えてください"</string>
+    <string name="start">"START"</string>
+    <string name="stop">"STOP"</string>
+</resources>
